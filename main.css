@@ -1,0 +1,65 @@
+.vx {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	border: 1px solid #E5E5E5;
+	justify-content: space-around;
+	padding: 1rem;
+}
+
+.vx > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 20px;
+}
+.vx .rightbox {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.vx .leftbox {
+	background-color: #162970;
+	color: white;
+	font-size: 15px;
+	width: 150px;
+	padding: 5px;
+	border: 1px solid #DBDBDB;
+}
+.secondline {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	border: none;
+	justify-content: space-around;
+	padding: 1rem;
+}
+
+.secondline > div {
+	background-color: #E5E5E5;
+	border: transparent;
+	font-size: 10px;
+	color: black;
+	padding: 50px;
+}
+.secondline .rightboxl2 {
+	background-color: white;
+	font-size: 15px;
+	width: 170px;
+	padding: 25px;
+	border: 1px solid #DBDBDB;
+}
+.secondline .leftboxl2 {
+	background-color: white;
+	color: black;
+	font-size: 15px;
+	width: 170px;
+	padding: 25px;
+	border: 2px solid #F2AE4B;
+}
+img {
+	width: 200px;
+}
